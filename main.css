@@ -589,6 +589,9 @@ body {
 .card-title {
     text-align: center;
 }
+.card-body {
+    text-align: center;
+}
 .card {
   border-radius:15px;
 }
